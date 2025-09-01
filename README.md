@@ -1,9 +1,9 @@
 # Advanced Dashboard (MERN Stack)
 
-![License](https://img.shields.io/github/license/kagan-dev/Advanced-Dashboard)
-![Stars](https://img.shields.io/github/stars/kagan-dev/Advanced-Dashboard)
-![Issues](https://img.shields.io/github/issues/kagan-dev/Advanced-Dashboard)
-![Last Commit](https://img.shields.io/github/last-commit/kagan-dev/Advanced-Dashboard)
+![License](https://img.shields.io/github/license/kgnio/Advanced-Dashboard)
+![Stars](https://img.shields.io/github/stars/kgnio/Advanced-Dashboard)
+![Issues](https://img.shields.io/github/issues/kgnio/Advanced-Dashboard)
+![Last Commit](https://img.shields.io/github/last-commit/kgnio/Advanced-Dashboard)
 
 An advanced device and sensor management dashboard built using the MERN (MongoDB, Express.js, React, Node.js) stack. Includes real-time updates, dynamic dropdowns, and mobile responsiveness.
 
@@ -103,7 +103,7 @@ Go to: [http://localhost:5173](http://localhost:5173)
 
 ## 👤 Author
 
-- **Kagan Mamak** – [@kagan-dev](https://github.com/kagan-dev)
+- **Kagan Mamak** – [@kgnio](https://github.com/kgnio)
 
 ---
 
