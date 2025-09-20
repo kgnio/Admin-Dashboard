@@ -1,9 +1,9 @@
 # Advanced Dashboard (MERN Stack)
 
-![License](https://img.shields.io/github/license/kgnio/Advanced-Dashboard)
-![Stars](https://img.shields.io/github/stars/kgnio/Advanced-Dashboard)
-![Issues](https://img.shields.io/github/issues/kgnio/Advanced-Dashboard)
-![Last Commit](https://img.shields.io/github/last-commit/kgnio/Advanced-Dashboard)
+![License](https://img.shields.io/github/license/kgnio/Admin-Dashboard)
+![Stars](https://img.shields.io/github/stars/kgnio/Admin-Dashboard)
+![Issues](https://img.shields.io/github/issues/kgnio/Admin-Dashboard)
+![Last Commit](https://img.shields.io/github/last-commit/kgnio/Admin-Dashboard)
 
 An advanced device and sensor management dashboard built using the MERN (MongoDB, Express.js, React, Node.js) stack. Includes real-time updates, dynamic dropdowns, and mobile responsiveness.
 
